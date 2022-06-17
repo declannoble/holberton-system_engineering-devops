@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# printing best school X10 using until
 counter=0
 
 until [ "$counter" -eq 10 ]
