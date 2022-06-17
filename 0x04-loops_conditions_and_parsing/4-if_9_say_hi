@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# printing best school X10 except at idx 8
 
 i=1
 
