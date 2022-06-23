@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script to display current listening sockets + pid 
+
+sudo netstat -lp
